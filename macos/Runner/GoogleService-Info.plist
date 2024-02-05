@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>324187337332-co20kc04g777rkmnf87abmfjm38huhpk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.324187337332-co20kc04g777rkmnf87abmfjm38huhpk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>324187337332-jf6ibpb5cj5ger85u77m157j5r1oqppv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBAf59vJzSrhUoRQ7t6RVkHlV9Fxu04n34</string>
+	<key>GCM_SENDER_ID</key>
+	<string>324187337332</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.musikatWebAdmin.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>musikat-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>musikat-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:324187337332:ios:7e0b01e48db33349285721</string>
+	<key>DATABASE_URL</key>
+	<string>https://musikat-app-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
